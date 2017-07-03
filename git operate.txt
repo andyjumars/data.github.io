@@ -1,0 +1,21 @@
+sing up
+
+git config --global user.name andyjumars
+git config --global user.email andyjumars@hotmail.com
+
+ÂÐ»\
+
+git push -f ±j¨îÂÐ»\
+
+
+git remote -v
+
+git branch  looking for u where
+
+git commit   or git commit -m 'description'
+
+if git commit   write commit  and :wq
+
+git push or git push origin master
+
+git log   can watch history 
